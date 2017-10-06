@@ -1,0 +1,13 @@
+{
+  "name": "robofy",
+  "version": "1.0.0",
+  "description": "calculates number of squares a robot moves in a factory floor",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"    
+  },
+  "author": "tshepo ntlhokoa",
+  "license": "MIT",
+  "devDependencies": {
+  }
+}
